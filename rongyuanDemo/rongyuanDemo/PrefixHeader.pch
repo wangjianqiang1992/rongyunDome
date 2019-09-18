@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  rongyuanDemo
+//
+//  Created by macAir on 2019/9/18.
+//  Copyright © 2019 WJQ. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <RongIMKit/RongIMKit.h>
+#import <RongIMLib/RongIMLib.h>
+
+#endif /* PrefixHeader_pch */
